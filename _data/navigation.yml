@@ -1,9 +1,9 @@
-- name: Pricing
-  link: /pricing/
+- name: Quem somos
+  link: /quemsomos/
   new_window: false
   highlight: false
-- name: Blog
-  link: /blog/
+- name: Observabilidade
+  link: /Observabilidade/
   new_window: false
   highlight: false
 - name: About
